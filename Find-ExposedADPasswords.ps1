@@ -8,7 +8,7 @@
     passwords may be stored in plaintext or weakly protected formats, including AD attributes, GPP files, and login scripts.
 
 .NOTES
-    Author: ChatGPT + Marietjie (TryHackMe Pentest+ Path)
+    Author: Michael Van Staden
     License: MIT
     Intended for educational and authorized use only.
 #>
