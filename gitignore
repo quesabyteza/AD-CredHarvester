@@ -1,0 +1,13 @@
+# PowerShell specific
+*.ps1~ 
+*.psm1~ 
+*.psd1~ 
+*.ps1xml~ 
+*.log
+*.bak
+
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
