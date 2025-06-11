@@ -24,5 +24,4 @@ This tool is for educational and authorized penetration testing **only**. Unauth
 
 ## 👤 Author
 
-Created by Marietjie + ChatGPT  
-For TryHackMe Pentest+ Learning Path
+Created by Michael van staden
